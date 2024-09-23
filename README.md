@@ -28,7 +28,7 @@ pip install tk
 ## Installation
 * Clone the repository:
 ```
-git clone https://github.com/yourusername/YT-Playlist-Ripper.git
+git clone https://github.com/AbhashK1/YT-Playlist-Ripper.git
 cd YT-Playlist-Ripper
 ```
 * Install the necessary Python libraries:
