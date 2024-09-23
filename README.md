@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ## Usage
 Launch the program by running:
 ```
-python main.py
+python gui.py
 ```
 Enter the YouTube playlist URL in the provided field.
 Select the destination folder for the downloaded MP3 files.
